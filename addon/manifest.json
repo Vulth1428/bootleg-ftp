@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "PixelPoly Server [DATA]",
+    "description": "Created by @JstAsh01",
+    "uuid": "a92b99b2-64d8-022d-7c99-a70b10cedc3a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "82752273-961b-7ce8-a841-2c9d1af50ae5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
